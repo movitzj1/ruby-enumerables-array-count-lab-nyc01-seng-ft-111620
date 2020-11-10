@@ -22,4 +22,6 @@ def count_empty_strings(array)
   end
   total
 end
+
+puts count_empty_strings(array_2) 
 # Return the total number of EMPTY strings in the provided array using the count enumerable
